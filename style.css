@@ -1,0 +1,33 @@
+body{
+    background-color:tomato;
+}
+h1{
+    color:orange;
+    background-color:navy;
+    text-align:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    color:purple;
+}
+
+#fan {
+    color:grey;
+}
+#mat1{
+    color:green;
+}
+#mat2{
+    color:blue;
+}
+#mat3{
+    color:aqua;
+}
+#mat4{
+    color:silver;
+    background-color:coral;
+}
+
+a{
+    background-color: grey;
+}
